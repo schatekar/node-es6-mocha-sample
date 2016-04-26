@@ -1,5 +1,5 @@
 import {expect} from 'chai';
-import {Customer} from '../app/customer';
+import Customer from '../app/customer';
 
 describe("Customer", function(){
     it("should have name", function(){
